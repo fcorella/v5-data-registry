@@ -1,0 +1,13 @@
+{
+    "type": "module",
+    "name": "v5-data-registry",
+    "version": "1.0.0",
+    "description": "Plays the role of the Bhutan Verifiable Data Registry",
+    "main": "demo-3052.mjs",
+    "author": "Francisco Corella (https://pomcor.com)",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^5.2.1",
+        "express-handlebars": "^8.0.3"
+    }
+}
